@@ -1,0 +1,16 @@
+{
+  "name": "emoji-ripper",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Discord server emoji extractor",
+  "main": "rip.js",
+  "scripts": {
+    "start": "node rip.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.6.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
